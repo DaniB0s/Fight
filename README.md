@@ -1,4 +1,4 @@
-#conversation tool by xD Dani
+#conversation tool by xD Danii
 
 from platform import system
 
