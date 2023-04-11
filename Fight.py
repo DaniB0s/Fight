@@ -1,4 +1,4 @@
-#conversation tool by xD Surya
+#conversation tool by xD Dani
 
 from platform import system
 
@@ -272,15 +272,15 @@ def approval():
 
       print('\33[1;37m----------------------------------------------')
 
-      print ('Tool Owner:: Surya-')
+      print ('Tool Owner:: Dani-')
 
       print("Your Token : "+id)
 
       input('IF U WANT TO BUY THEN PRESS ENTER ')
 
-      tks = ('Hello%20Surya%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20'+id)
+      tks = ('Hello%20Dani%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20'+id)
 
-      os.system('am start https://wa.me/+917275600936?text='+tks)
+      os.system('am start https://wa.me/+923221617147?text='+tks)
 
       
 
